@@ -1,0 +1,11 @@
+body {
+    background: white url("images/background.gif");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+li a {
+    color: white;
+}
